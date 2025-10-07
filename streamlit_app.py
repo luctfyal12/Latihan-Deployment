@@ -5,12 +5,16 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-color: #96A78D; /* Light gray background */
-        color: black;
+        background-color: #D9E9CF; /* Light gray background */
+        color: blackç;
     }
     [data-testid="stSidebar"] {
         background-color: #B6CEB4;
-        color:
+        color: black;
+    }
+    [data-testid="stHeader"] {
+        background-color: #96A78D;
+        color: black;
     }
     </style>
     """,
